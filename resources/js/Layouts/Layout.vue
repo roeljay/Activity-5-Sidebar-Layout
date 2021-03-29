@@ -73,7 +73,7 @@
 
             <div class="flex items-center px-4 -mx-2">
                 <img class="object-cover mx-2 rounded-full h-9 w-9" src="../Layouts/RJ.jpg" alt="avatar">
-                <h4 class="mx-2 font-medium text-gray-800 dark:text-gray-200 hover:underline">Roel Jay</h4>
+                <h4 class="mx-2 font-medium text-gray-800 dark:text-gray-200 hover:underline">Roel</h4>
             </div>
         </div>
     </div>
